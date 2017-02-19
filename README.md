@@ -7,3 +7,6 @@ own responsive CSS Grid system which scales up to 18 columns just like bootstrap
 
 #How to Run
 ->Just move to that location and click on Index.html to open with a standard browser.The project will run.
+
+Link of the website:-
+https://19shubham.github.io/CSS-Grid/
