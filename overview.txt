@@ -1,0 +1,3 @@
+CSS Grid System
+
+own responsive css grid system which scales up to 18 columns just like bootstrap.
